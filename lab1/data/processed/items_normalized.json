@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "category": "electronics",
+      "value": 1299.9,
+      "updated_at": "2026-09-15T00:00:00",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "category": "electronics",
+      "value": 25.5,
+      "updated_at": "2026-09-16T00:00:00",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "category": "electronics",
+      "value": 15.0,
+      "updated_at": "2026-09-20T10:00:00",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Desk",
+      "category": "furniture",
+      "value": 250.0,
+      "updated_at": "2026-09-17T00:00:00",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Chair",
+      "category": "furniture",
+      "value": 89.9,
+      "updated_at": "2026-09-19T00:00:00",
+      "active": false
+    },
+    {
+      "id": 6,
+      "name": "Lamp",
+      "category": null,
+      "value": 45.5,
+      "updated_at": "2026-09-20T00:00:00",
+      "active": true
+    }
+  ]
+}

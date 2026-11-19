@@ -1,0 +1,4 @@
+method,exact_match_with_canonical,note
+CSV/XML/JSON,True,Канонический полный набор
+REST API,True,Канонический полный набор
+Selenium,True,Канонический полный набор

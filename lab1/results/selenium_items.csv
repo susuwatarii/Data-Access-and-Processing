@@ -1,0 +1,4 @@
+id,name,category,value,updated_at,active
+1,Notebook,electronics,1299.9,2026-09-15 00:00:00,True
+2,Mouse,electronics,25.5,2026-09-16 00:00:00,True
+3,Keyboard,electronics,15.0,2026-09-20 10:00:00,True

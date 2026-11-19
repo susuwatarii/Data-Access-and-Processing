@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<items>
+  <item>
+    <id>1</id>
+    <name>Notebook</name>
+    <category>electronics</category>
+    <value>1299.9</value>
+    <updated_at>2026-09-15T00:00:00</updated_at>
+    <active>true</active>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Mouse</name>
+    <category>electronics</category>
+    <value>25.5</value>
+    <updated_at>2026-09-16T00:00:00</updated_at>
+    <active>true</active>
+  </item>
+  <item>
+    <id>3</id>
+    <name>Keyboard</name>
+    <category>electronics</category>
+    <value>15.0</value>
+    <updated_at>2026-09-20T10:00:00</updated_at>
+    <active>true</active>
+  </item>
+  <item>
+    <id>4</id>
+    <name>Desk</name>
+    <category>furniture</category>
+    <value>250.0</value>
+    <updated_at>2026-09-17T00:00:00</updated_at>
+    <active>false</active>
+  </item>
+  <item>
+    <id>5</id>
+    <name>Chair</name>
+    <category>furniture</category>
+    <value>89.9</value>
+    <updated_at>2026-09-19T00:00:00</updated_at>
+    <active>false</active>
+  </item>
+  <item>
+    <id>6</id>
+    <name>Lamp</name>
+    <category />
+    <value>45.5</value>
+    <updated_at>2026-09-20T00:00:00</updated_at>
+    <active>true</active>
+  </item>
+</items>

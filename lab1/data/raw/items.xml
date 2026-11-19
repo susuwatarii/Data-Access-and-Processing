@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <id>1</id><name>Notebook</name><category>ELECTRONICS</category><value>1299.90</value><updated_at>15.09.2026</updated_at><active>TRUE</active>
+  </item>
+  <item>
+    <id>2</id><name>Mouse</name><category>electronics</category><value>25.5</value><updated_at>2026-09-16T00:00:00</updated_at><active>1</active>
+  </item>
+  <item>
+    <id>3</id><name>Keyboard</name><category> electronics </category><value>14.8</value><updated_at>2026-09-19 12:00:00</updated_at><active>true</active>
+  </item>
+  <item>
+    <id>4</id><name>Desk</name><category>Furniture</category><value>250</value><updated_at>17.09.2026</updated_at><active>FALSE</active>
+  </item>
+  <item>
+    <id>5</id><name>Chair</name><category>FURNITURE</category><value>89.90</value><updated_at>2026/09/19</updated_at><active>no</active>
+  </item>
+  <item>
+    <id>6</id><name>Lamp</name><category></category><value>45.50</value><updated_at>20.09.2026</updated_at><active>1</active>
+  </item>
+</items>

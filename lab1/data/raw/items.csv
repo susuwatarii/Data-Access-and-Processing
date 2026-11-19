@@ -1,0 +1,8 @@
+id,name,category,value,updated_at,active
+1,Notebook, Electronics ,1299.90,2026-09-15,true
+2,Mouse,electronics,25.5,16.09.2026,1
+3,Keyboard,ELECTRONICS,14.5,2026-09-18T09:30:00,yes
+4,Desk,Furniture,250,2026/09/17,false
+4,Desk,Furniture,250,2026/09/17,false
+5,Chair, furniture ,"89.90",2026-09-19,0
+6,Lamp,,"45,50",20.09.2026,true

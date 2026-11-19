@@ -1,0 +1,4 @@
+method,rows,unique_ids,time_seconds,time_source,has_errors,error
+CSV/XML/JSON,6,6,0.03535,measured during comparison,False,
+REST API,6,6,0.015184,measured during comparison,False,
+Selenium,6,6,19.687083,recorded during browser run,False,
